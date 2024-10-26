@@ -1,0 +1,44 @@
+p {
+    background-color: chocolate;
+    width: 500px;
+}
+
+#paragraph {
+    border: 2px dotted red;
+}
+
+.text {
+    /*
+    padding-top: ;
+    padding-right: ;
+    padding-bottom: ;
+    padding-left: ;
+    */
+    padding: 10px;
+}
+
+[href] {
+    color: black;
+}
+
+.block-link,
+.img-wrap {
+    border: 2px dashed green;
+    width: 300px;
+    /*
+    padding-top: ;верхний 
+    padding-right: ;правый 
+    padding-bottom: ;нижний 
+    padding-left: ;левый 
+    */
+    margin-bottom: 10px;
+}
+
+.btn {
+    background-color: orange;
+    border: none;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+.btn.active
